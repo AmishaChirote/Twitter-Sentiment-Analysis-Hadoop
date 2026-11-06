@@ -44,6 +44,7 @@ Contains screenshots of:
 - Hadoop execution
 - HDFS output verification
 - Sentiment analysis results
+- Visualization Graphs
 
 ## Dataset
 
@@ -85,3 +86,11 @@ Two sentiment analysis approaches were evaluated:
 2. Lexicon-Based Sentiment Analysis
 
 The lexicon-based model was also tested on both the original and preprocessed datasets to study the effect of preprocessing on model performance.
+
+## Visualizations
+
+The following visualizations were generated from the sentiment analysis results:
+
+- Accuracy Comparison of Models
+- Sentiment Distribution Bar Chart
+- Sentiment Distribution Pie Chart
